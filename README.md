@@ -2,6 +2,6 @@
 
 
 - 🌱 I’m currently learning automated tests with Cypress
-- 📋 Experience with Manager Projects
+- 📋 Experience as a Project Manager
 - 📖 EF SET English Certificate 64/100 (C1 Advanced) - https://www.efset.org/cert/49ZfMM
 - 🖥 Jira Software and experience with Scrum and Kanban
