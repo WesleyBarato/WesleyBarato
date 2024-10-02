@@ -1,5 +1,4 @@
 ### Hi there my name is Wesley Barato, welcome to my profile👋
-<h1>Olá</h1>
 
 - 🌱 Studying for a postgraduate degree in Teaching in technical education
 - 📋 Experience as a Project Manager
