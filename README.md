@@ -1,7 +1,5 @@
 ## Hi there! My name is Wesley Barato, welcome to my profile 👋
 
-## Wesley Barato
-
 Software Developer | JavaScript | Node.js | MySQL | REST APIs
 
 I am a software developer focused on building web applications and backend services using JavaScript and Node.js.
